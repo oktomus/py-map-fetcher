@@ -3,7 +3,7 @@ You can use it on websites like geoportail.
 
 ## Example
 
-Edit `fetch_row.py` to fill in required parameters.
+Edit `download_tiled_map.py` to fill in required parameters.
 
 ```
 # Download 5x5 tiles starting from tile at (34133, 22633)
