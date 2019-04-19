@@ -89,7 +89,7 @@ def merge_rows():
 
         if not os.path.exists(folder_path):
             print("No such row")
-            return false
+            return False
 
         sys.stdout.flush()
 
