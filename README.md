@@ -1,5 +1,4 @@
-Give it a url and some coordinates and it will download the map you want.
-You can use it on websites like geoportail.
+:sunrise_over_mountains: :mag: Download the map you want.
 
 ## How to use it
 
@@ -32,5 +31,6 @@ Here is a non exhausitve list of possible improvements:
 - Don't write the parameters in the python script. Use a `yaml` file instead.
 - Directly export the `sqllite` file.
 - Adapt the script to other map providers and document it.
+- Instead of giving coordinates, give a location and fetch a given radius
 
 For any feature request, please [file an issue](https://github.com/oktomus/py-map-fetcher/issues/new).
